@@ -5,6 +5,7 @@
   <a href="https://www.linkedin.com/in/mehmet-uluda%C4%9F-7b2604343/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://my-portfolio-react-ecru.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
+
 ### 🛠️ Tech Stack & Tools
 **Languages & Backend Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,6 +26,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehmetUlDG&show_icons=true&theme=radium&hide_border=true" alt="Mehmet's GitHub Stats" />
