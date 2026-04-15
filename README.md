@@ -7,14 +7,12 @@
   <a href="https://my-portfolio-react-ecru.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
 
----
 
 ### 🚀 Highlights & Current Focus
 - 🎓 **Background:** Computer Engineering student seeking Junior/Intern roles.
 - 🏗️ **Backend Architecture:** Designing scalable **.NET Core** n-tier systems (MediatR, CQRS) & architecting event-driven microservices using **Go, Kafka, and Redis**.
 - 🧠 **AI / Machine Learning:** Building, training, and optimizing models. (*Highlight: Achieved 0.8474 ROC-AUC with XGBoost after Optuna tuning*).
 
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -38,9 +36,4 @@
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetUlDG&show_icons=true&theme=dracula&hide_border=true&locale=tr" alt="Mehmet's GitHub Stats" />
-</div>
