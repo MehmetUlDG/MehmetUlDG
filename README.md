@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 <p align="center">
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetUlDG&show_icons=true&theme=dracula&hide_border=true&locale=tr"/>
+ ![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehmetUlDG&show_icons=true&theme=dracula&hide_border=true&locale=tr)
 </div>
 </p>
 
