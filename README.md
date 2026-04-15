@@ -42,9 +42,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetUlDG&show_icons=true&theme=radium&hide_border=true" alt="Mehmet's GitHub Stats" />
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetUlDG&show_icons=true&theme=dracula&hide_border=true&locale=tr"/>
+</div>
 </p>
 
 ### 📫 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-uluda%C4%9F-7b2604343/) *(Buraya LinkedIn linkini ekleyebilirsin)*
-- 🌐 [Portfolio](https://my-portfolio-react-ecru.vercel.app/) *(Buraya güncel portfolyo adresini ekleyebilirsin)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-uluda%C4%9F-7b2604343/) 
+- 🌐 [Portfolio](https://my-portfolio-react-ecru.vercel.app/)
