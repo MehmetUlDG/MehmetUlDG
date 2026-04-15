@@ -1,52 +1,46 @@
+<div align="center">
+  <h1>Hi there, I'm Mehmet 👋</h1>
+  <h3>Computer Engineering Student | AI/ML Developer | Backend Engineer</h3>
+  <p>Passionate about building scalable backend systems and data-driven AI solutions. Proven ability in optimizing machine learning models and designing resilient microservice architectures. Eager to contribute as a junior developer or intern.</p>
 
-<h1 align="center">Hi there, I'm Mehmet 👋</h1>
-<h3 align="center">Backend Developer | AI Enthusiast | Microservices Architect</h3>
-
-<p align="center">
-  I am a passionate software developer specializing in building highly scalable, resilient, and high-performance backend systems. I have a strong focus on <b>Event-Driven Microservices</b>, <b>Clean Architecture</b>, and integrating <b>Artificial Intelligence / Machine Learning</b> into modern applications.
-</p>
+  <a href="https://www.linkedin.com/in/mehmet-uluda%C4%9F-7b2604343/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://my-portfolio-react-ecru.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
+</div>
 
 ---
 
-### 🚀 What I'm Currently Working On
-- 🏗️ Architecting an event-driven **Broker/Stock Exchange Microservice** using **Go (1.22+), Kafka, Redis, and PostgreSQL**.
-- 🧠 Developing Machine Learning models and exploring innovative Artificial Intelligence solutions with **Python**.
-- 💻 Building modern, responsive web architectures using **React** and **.NET Core**.
+### 🚀 Highlights & Current Focus
+- 🎓 **Background:** Computer Engineering student seeking Junior/Intern roles.
+- 🏗️ **Backend Architecture:** Designing scalable **.NET Core** n-tier systems (MediatR, CQRS) & architecting event-driven microservices using **Go, Kafka, and Redis**.
+- 🧠 **AI / Machine Learning:** Building, training, and optimizing models. (*Highlight: Achieved 0.8474 ROC-AUC with XGBoost after Optuna tuning*).
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Backend & Architecture:**  
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Languages & Backend Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Databases & Messaging:**  
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
+**AI, Machine Learning & Data:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**AI & Machine Learning:**  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**Infrastructure & DevOps:**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Databases, Messaging & Infrastructure:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
- <div align="center">
- ![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehmetUlDG&show_icons=true&theme=dracula&hide_border=true&locale=tr)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetUlDG&show_icons=true&theme=dracula&hide_border=true&locale=tr" alt="Mehmet's GitHub Stats" />
 </div>
-</p>
-
-### 📫 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-uluda%C4%9F-7b2604343/) 
-- 🌐 [Portfolio](https://my-portfolio-react-ecru.vercel.app/)
