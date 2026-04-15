@@ -1,21 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm Mehmet 👋</h1>
   <h3>Computer Engineering Student | AI/ML Developer | Backend Engineer</h3>
-  <p>Passionate about building scalable backend systems and data-driven AI solutions. Proven ability in optimizing machine learning models and designing resilient microservice architectures. Eager to contribute as a junior developer or intern.</p>
 
   <a href="https://www.linkedin.com/in/mehmet-uluda%C4%9F-7b2604343/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://my-portfolio-react-ecru.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
-
-
-### 🚀 Highlights & Current Focus
-- 🎓 **Background:** Computer Engineering student seeking Junior/Intern roles.
-- 🏗️ **Backend Architecture:** Designing scalable **.NET Core** n-tier systems (MediatR, CQRS) & architecting event-driven microservices using **Go, Kafka, and Redis**.
-- 🧠 **AI / Machine Learning:** Building, training, and optimizing models. (*Highlight: Achieved 0.8474 ROC-AUC with XGBoost after Optuna tuning*).
-
-
 ### 🛠️ Tech Stack & Tools
-
 **Languages & Backend Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -35,5 +25,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetUlDG&show_icons=true&theme=radium&hide_border=true" alt="Mehmet's GitHub Stats" />
+</p>
 
